@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class ejercicio3_semana3_IEU_fundProg {
- static Scanner sc = new Scanner(System.in);
  public static void main(String[] args) {
   System.out.println("Ingresa un número entero de filas: ");
   int filas = sc.nextInt();
